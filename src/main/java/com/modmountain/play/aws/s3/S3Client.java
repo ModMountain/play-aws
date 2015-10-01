@@ -1,4 +1,4 @@
-package com.modmountain.s3;
+package com.modmountain.play.aws.s3;
 
 import com.amazonaws.services.s3.AmazonS3;
 

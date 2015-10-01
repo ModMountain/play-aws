@@ -1,7 +1,7 @@
-package com.modmountain;
+package com.modmountain.play.aws;
 
-import com.modmountain.s3.DefaultS3Client;
-import com.modmountain.s3.S3Client;
+import com.modmountain.play.aws.s3.S3Client;
+import com.modmountain.play.aws.s3.DefaultS3Client;
 import play.api.Configuration;
 import play.api.Environment;
 import play.api.inject.Binding;

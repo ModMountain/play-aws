@@ -1,5 +1,5 @@
 name := "play-aws"
-organization := "com.modmountain"
+organization := "com.modmountain.play.aws"
 version := "0.1.0"
 
 scalaVersion := "2.11.7"
